@@ -1,8 +1,8 @@
-# 🎮 API Pokémon
+# API Pokémon
 
 Projeto desenvolvido com HTML, CSS e JavaScript consumindo a PokéAPI para buscar e exibir informações de Pokémon de forma dinâmica.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 * Buscar Pokémon pelo nome ou ID
 * Exibir imagem do Pokémon
@@ -10,14 +10,14 @@ Projeto desenvolvido com HTML, CSS e JavaScript consumindo a PokéAPI para busca
 * Consumo de API utilizando JavaScript assíncrono
 * Interface simples e responsiva
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * HTML5
 * CSS3
 * JavaScript
 * PokéAPI
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 /
@@ -27,11 +27,11 @@ Projeto desenvolvido com HTML, CSS e JavaScript consumindo a PokéAPI para busca
 └── README.md
 ```
 
-## 🌐 API Utilizada
+## API Utilizada
 
 * https://pokeapi.co/
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Clone o repositório:
 
@@ -47,7 +47,7 @@ cd API_Pokemon
 
 3. Abra o arquivo `index.html` em seu navegador.
 
-## 📚 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
@@ -57,10 +57,10 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 * Tratamento de respostas da API
 * Organização de código JavaScript
 
-## 🎯 Objetivo
+## Objetivo
 
 Este projeto foi criado com o objetivo de aprender como integrar aplicações web com APIs externas e exibir dados dinâmicos em uma interface amigável.
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Vitória Dietrich**.
